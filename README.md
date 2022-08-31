@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrusha1
-- 👀 I’m interested in indie games, programming.
-- 🌱 I’m currently learning C# & Unity
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning C#, ASP.Net Core.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
